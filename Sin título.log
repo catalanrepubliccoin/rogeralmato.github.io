@@ -1,0 +1,18 @@
+
+4/4/18 11:07:36 - ERROR: Download of "http://daniels.bitballoon.com/fonts/fontawesome-webfont.svg?v=4.7.0",
+	referenced from "http://daniels.bitballoon.com/css/font-awesome.min.css",
+	failed with error code -1100 (File does not exist.)
+4/4/18 11:07:36 - ERROR: Download of "http://daniels.bitballoon.com/css/owl.video.play.png",
+	referenced from "http://daniels.bitballoon.com/css/owl.carousel.min.css",
+	failed with error code -1100 (File does not exist.)
+4/4/18 11:07:40 - ERROR: Download of "http://daniels.bitballoon.com/fonts/glyphicons-halflings-regular.woff2",
+	referenced from "http://daniels.bitballoon.com/css/bootstrap.min.css",
+	failed with error code -1100 (File does not exist.)
+4/4/18 11:07:41 - ERROR: Download of "http://daniels.bitballoon.com/fonts/glyphicons-halflings-regular.svg",
+	referenced from "http://daniels.bitballoon.com/css/bootstrap.min.css",
+	failed with error code -1100 (File does not exist.)
+4/4/18 11:07:41 - ERROR: Download of "http://daniels.bitballoon.com/fonts/et-line.svg",
+	referenced from "http://daniels.bitballoon.com/css/et-line.css",
+	failed with error code -1100 (File does not exist.)
+
+---------------------
